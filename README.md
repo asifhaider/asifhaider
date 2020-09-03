@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 # Profile Overview
 ![Profile views](https://gpvc.arturio.dev/asifhaider)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifhaider&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifhaider&show_icons=true&theme=merko)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifhaider&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
