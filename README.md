@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 🔭 Currently working on a Deep Learning Research Project, keep an eye for it!
 - 🌱 Currently learning Backend Web Development (Django, Laravel) and Desktop App Development (JavaFX)
 - 👯 Looking to collaborate on any CS research project and Open Source development project
-- 📫 Reach out to me through: [Mail](mailto:elhanasif@gmail.com) and [Facebook](https://www.facebook.com/asif.elhan)
 
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ... 
 - ⚡ Fun fact: ...
+- 📫 Reach out to me through: [Mail](mailto:elhanasif@gmail.com) and [Facebook](https://www.facebook.com/asif.elhan)
 - 😄 Pronouns: ... -->
