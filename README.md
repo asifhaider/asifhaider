@@ -28,7 +28,7 @@ This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Tec
 ## Profile Overview
 ![Profile views](https://gpvc.arturio.dev/asifhaider)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=asifhaider&show_icons=true&theme=tokyonight&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=asifhaider&show_icons=true&theme=tokyonight&count_private=true" /> <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifhaider&layout=compact)
 <!--
