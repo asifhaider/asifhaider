@@ -27,11 +27,8 @@ This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Tec
 
 ## Profile Overview
 ![Profile views](https://gpvc.arturio.dev/asifhaider)
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifhaider&layout=compact" alt="asifhaider" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifhaider&show_icons=true&theme=tokyonight&count_private=true" alt="asifhaider" /></p>
--->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=asifhaider&show_icons=true&theme=tokyonight&count_private=true" />   &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifhaider&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=asifhaider&show_icons=true&theme=tokyonight&count_private=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifhaider&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifhaider&show_icons=true&theme=tokyonight&count_private=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifhaider&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
