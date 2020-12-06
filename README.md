@@ -9,7 +9,7 @@ This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Tec
 
 - 🔭 Actively working on a couple of Deep Learning Research Projects, keep an eye for those!
 - 🌱 Currently learning Backend Web (**Django**, **Laravel**) Frameworks and Desktop GUI (**JavaFX**) Library
-- 👯 Looking to collaborate on any CS research project and Open Source development project
+- 👯 Open for collaboration on any CS research project and Open Source development project
 
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ... 
