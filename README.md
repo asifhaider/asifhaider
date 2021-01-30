@@ -7,11 +7,12 @@ Here are some ideas to get you started:
 -->
 This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Technology**. I am a **Sophomore Computer Science Undergraduate Student**, **Web Developer** and **Content Writer**. I am also interested in **Machine Learning** and **Artificial Intelligence**. Check out my repositories and project details!  
 
-- 🔭 Actively working on a couple of Deep Learning Research Projects, keep an eye for those!
-- 🌱 Currently learning Backend Web **(Django, Laravel)** Frameworks and Desktop GUI **(JavaFX)** Library
+- 🔭 Actively working on a couple of research projects on **Deep Learning**, keep an eye for those!
+- 🌱 Currently learning Backend Web **(Node, Laravel)** Frameworks and Desktop GUI **(JavaFX)** Library
+- 🤔 Looking for help with **Blockchain Technology**
 - 👯 Open for collaboration on any CS research project and Open Source development project
 
-<!-- - 🤔 I’m looking for help with 
+<!--  
 - 💬 Ask me about ... 
 - ⚡ Fun fact: ...
 - 📫 Reach out to me through: [Mail](mailto:elhanasif@gmail.com) and [Facebook](https://www.facebook.com/asif.elhan)
