@@ -9,7 +9,7 @@ This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Tec
 
 - 🔭 Actively working on a couple of research projects involving **Artificial Intelligence**, keep an eye for those!
 - 🌱 Currently learning Web **(React, Laravel)** Frameworks and Desktop GUI **(JavaFX)** Library
-- 🤔 Looking for help with **Blockchain Technology**
+- 🤔 Looking for help with **Blockchain Technology** and **Linux Ecosystem**
 - 👯 Open for collaboration on any CS research project and Open Source development project
 
 <!--  
