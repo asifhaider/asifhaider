@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 -->
-This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Technology**. I am a **Sophomore Year Computer Science and Engineering Undergraduate Student**, **Web Developer** and **Content Writer**. I am also interested in **Artificial Intelligence**, specially **Machine Learning**. Check out my repositories and project details!  
+This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Technology**. I am a **Sophomore Year Computer Science and Engineering Undergraduate Student**, **Web Developer** and **Content Writer**. I am also interested in **Artificial Intelligence**, specially **Deep Learning**. Check out my repositories and project details!  
 
 - 🔭 Actively working on a couple of research projects related to **Deep Learning, Biomedical and Transportation Engineering**
 - 🌱 Currently learning Web **(React, Laravel, Spring)** Frameworks ~and Desktop GUI **(JavaFX)** Library~
