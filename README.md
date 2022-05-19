@@ -5,11 +5,11 @@
 Here are some ideas to get you started:
 
 -->
-This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Technology**. I am a **Sophomore Year Computer Science and Engineering Undergraduate Student**, **Web Developer** and **Content Writer**. I am also interested in **Artificial Intelligence**, specially **Deep Learning**. Check out my repositories and project details!  
+This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Technology**. I am a **Junior (Level-3) Year Computer Science and Engineering Undergraduate Student**, **Software Developer** and **Content Writer**. I am mostly interested in **Artificial Intelligence**, specially in **Machine Learning** and **Deep Learning** techniques. Check out my repositories and project details!  
 
-- 🔭 Working on a couple of research projects related to **Machine Learning** and **Human Computer Interaction**
-- 🌱 Currently learning Web Application Frameworks **(Django, React, Express)** ~and Desktop GUI **(JavaFX)** Library~
-- 🤔 Looking for help with **Blockchain Technology**
+- 🔭 Working on a couple of research projects falling under the categories like **Machine Learning** and **Human Computer Interaction**
+- 🌱 Currently learning **Natural Language Processing** ~and Web Application Frameworks **(Django, React)**~
+- 🤔 Looking for help with **Business Blockchain**
 - 👯 Open for collaboration on any CS Research project and Open Source Development project
 
 <!--  
