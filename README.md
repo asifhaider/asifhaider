@@ -33,7 +33,7 @@ This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Tec
 ![Profile views](https://gpvc.arturio.dev/asifhaider)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifhaider&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifhaider&layout=compact&langs_count=10&hide=Jupyter%20Notebook,MATLAB)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifhaider&layout=compact&langs_count=10&hide=MATLAB)
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifhaider&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifhaider&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
