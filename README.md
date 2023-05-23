@@ -10,7 +10,7 @@ This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Tec
 - 🔭 Working on a couple of research projects that cover **Machine Learning** and **Natural Language Processing**
 - 🌱 Currently learning Web Application Frameworks **(Spring Boot, React)** and **DevOps Automation**
 - 🤔 Looking for help with ~**Business Blockchain**~
-- 👯 Open for collaboration on any CS Research project and Open Source Development project
+- 👯 Open for collaboration on suitable CS Research project and Open Source Development project
 
 <!--  
 - 💬 Ask me about ... 
