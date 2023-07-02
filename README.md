@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Technology**. I am a **Senior (Level-4) Year Computer Science and Engineering Undergraduate Student**, **Researcher**, **Developer** and **Content Creator**. I am mostly interested in **Artificial Intelligence**, specially solving problems using **Machine Learning** and **Deep Learning** techniques. Check out my repositories for project details!  
 
 - 🔭 Working on a couple of research projects that cover **Machine Learning** and **Natural Language Processing**
-- 🌱 Currently learning Web Application Frameworks **(Spring Boot, React)** and **DevOps Automation**
+- 🌱 Currently learning Web Application Frameworks **(Django REST, React/Next.JS)** and **DevOps Automation**
 - 🤔 Looking for help with ~**Business Blockchain**~
 - 👯 Open for collaboration on suitable CS Research project and Open Source Development project
 
