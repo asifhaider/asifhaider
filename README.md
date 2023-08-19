@@ -9,7 +9,7 @@ This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Tec
 
 - 🔭 Working on a couple of research projects covering **Machine Learning**, **Software Engineering**, and **Natural Language Processing**
 - 🌱 Currently learning Web Application Frameworks **(Flask, React/Next.JS)** and **DevOps Automation**
-- 🤔 Looking for help with ~**Computer Security**~
+- 🤔 Looking for help with **Computer Security**
 - 👯 Open for collaboration on suitable CS Research and/or Open Source Development projects
 
 <!--  
