@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 
 -->
-This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Technology**. I am a **Senior Year (Level-4, Term 2) Computer Science and Engineering Undergraduate Student**, **Researcher** and **Developer**. I am mostly interested in **Artificial Intelligence** research, specially solving problems using **Machine Learning** and **Deep Learning** techniques. Check out my repositories for project details!  
+This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Technology**. I am a **Researcher** and **Developer** with a **Fresh BSc. Graduate** degree in **Computer Science and Engineering**. I am mostly interested in **Artificial Intelligence** research, specially applying **Machine Learning** and **Deep Learning** techniques to solve problems in various interdisciplinary domains. Check out my repositories for project details!  
 
-- 🔭 Working on a couple of research projects covering **Machine Learning**, **Software Engineering**, and **Natural Language Processing**
+- 🔭 Working on a couple of research projects covering **Deep Learning**, **Software Engineering**, and **Natural Language Processing**
 - 🌱 Currently revisiting **Pytorch**
 - 🤔 Looking for help with **DevOps Automation**
 - 👯 Open for collaboration on suitable CS Research and/or Open Source Development projects
@@ -15,7 +15,7 @@ This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Tec
 <!--  
 - 💬 Ask me about ... 
 - ⚡ Fun fact: ...
-- 📫 Reach out to me through: [Mail](mailto:elhanasif@gmail.com) and [Facebook](https://www.facebook.com/asif.elhan)
+- 📫 Reach out to me through: [Mail](mailto:elhanasif@gmail.com) and [LinkedIn](https://www.linkedin.com/in/asif-haider-1805112/)
 - 😄 Pronouns: ... -->
 
 <!--
