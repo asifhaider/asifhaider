@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 This is **Md. Asif Haider**, from **Bangladesh University of Engineering and Technology**. I am a **Researcher** and **Developer** with a **Fresh BSc. Graduate** degree in **Computer Science and Engineering**. I am mostly interested in **Artificial Intelligence** research, specially applying **Machine Learning** and **Deep Learning** techniques to solve problems in various interdisciplinary domains. Check out the repositories here in GitHub for my project details. Explore my [personal webpage](https://asifhaider.github.io/) for updated CV/resume sections.
 
-- 🔭 Working on a couple of research projects covering **Deep Learning**, **Software Engineering**, and **Natural Language Processing**
+- 🔭 Working on a couple of research projects covering **Deep Learning**, **Software Engineering and Security**, and **Natural Language Processing**
 - 🌱 Currently revisiting the **[LLM Scientist and Engineering Roadmap](https://github.com/mlabonne/llm-course)**
 - 🤔 Looking for help with **Multi-modal Deep Learning**
 - 👯 Open for collaboration on suitable CS Research and/or Open Source Development projects
