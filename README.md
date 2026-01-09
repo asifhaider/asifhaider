@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 
 -->
-This is **Asif**, from the **University of California, Irvine**. I am a Graduate Teaching Assistant, and a first year PhD Student **Researcher** with a specific focus on **Software Engineering**. I had my B.Sc. degree in **Computer Science and Engineering** from Bangladesh University of Engineering and Technology, and served as a Lecturer in the same discipline at **BRAC University** prior to start my postgraduate studies. 
+This is **Asif**, from the **University of California, Irvine**. I am a Graduate Teaching Assistant, and a first year PhD Student **Researcher** with a specific focus on **Software Engineering**. I had my B.Sc. degree in **Computer Science and Engineering** from Bangladesh University of Engineering and Technology, and served as a Lecturer in the same discipline at **BRAC University** prior to starting my postgraduate studies. 
 
-I am mostly interested at the intersection of **Software Engineering**, **Machine Learning** and **Human Computer Interaction** research, with recent activities on areas covering LLM Agents and Code Review. Check out the repositories here in GitHub for my project details. Explore my [personal webpage](https://asifhaider.github.io/) for updated CV/resume sections.
+I am mostly interested at the intersection of **Software Engineering**, **Machine Learning** and **Human Computer Interaction** research, with recent activities on areas covering LLM Agents and Code Review. Check out the repositories here for my open-source project details. Explore my [personal webpage](https://asifhaider.github.io/) for updated CV/resume.
 
 <!--  
 - 🔭 Working on a couple of research projects covering **Deep Learning**, **Software Engineering and Security**, and **Natural Language Processing**
